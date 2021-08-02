@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
 import React from "react";
-
+// her er mit logo
 const Logo = () => (
   <h2 css={styles}>
     STEP <span>UP</span> 
