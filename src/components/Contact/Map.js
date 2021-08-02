@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
 import React from "react";
-
+// Her indsættes Google Maps
 const Map = () => (
   <div css={styles} className="mapouter">
     <iframe
