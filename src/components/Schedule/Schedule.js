@@ -6,7 +6,7 @@ import scheduleBg from "../Image/scheduleBg.jpg";
 import ScheduleLinks from "./ScheduleLinks";
 import Table from "./Table";
 import Container from "../GlobalComponents/Container";
-
+// teksten ovenpå holdskemaet 
 const Schedule = () => {
   const [hidden, setHidden] = useState(false);
   const [day, setDay] = useState("Monday");
