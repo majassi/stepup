@@ -3,7 +3,7 @@ import { jsx, css } from "@emotion/core";
 import React from "react";
 import Button from "../GlobalComponents/Button";
 import GymOverlayBg from "../Image/gymOverlayBg.jpg";
-
+// Motivations sektion
 const Member = ({ text }) => (
   <section css={styles} className="member">
     <h2>
