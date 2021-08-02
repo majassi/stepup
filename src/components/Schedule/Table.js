@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
 import React, { useState } from "react";
-
+// Her har vi holdskemaet 
 const Table = ({ day }) => {
   return (
     <table css={styles}>
