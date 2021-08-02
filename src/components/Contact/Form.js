@@ -3,7 +3,7 @@ import { jsx, css } from "@emotion/core";
 import React from "react";
 import Button from "../GlobalComponents/Button";
 import ContactBg from "../Image/contactBg.jpg";
-
+// Her har vi kontaktformularen 
 const Form = ({ text }) => (
   
   <div css={styles} className="formContainer">
