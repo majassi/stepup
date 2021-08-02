@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx, css } from "@emotion/core";
 import React from "react";
-// Her har vi holdskemaet 
+// Her linker vi hverdagene 
 const ScheduleLinks = ({ setDay , day}) => {
   return (
     <div className="links" css={styles}>
