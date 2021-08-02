@@ -3,7 +3,7 @@ import { jsx, css } from "@emotion/core";
 import React from "react";
 import Link from "./Link";
 
-
+// det er her at jeg sætter min nav bar op
 const LinksContainer = ({ hidden }) => {
   return (
     <div css={styles} className={(hidden ? "hidden" : "") + " linksContainer"}>
